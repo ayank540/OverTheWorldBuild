@@ -18,4 +18,4 @@ Run the following commands:
   ```
   serve -s build
   ```
-* Finally, Head over to: ```localhost:5000``` to view the app.
+* Finally, Head over to: [localhost:5000](http://localhost:5000/) to view the app.
